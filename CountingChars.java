@@ -13,7 +13,7 @@ import java.util.*;
 	s 1
 */
 
-// considering only letters (a - z) ignoring case
+// considering only letters (a - z) ignoring case and other characters
 public class CountingChars{
 
 	static int[] countLetters(char[] chars){
